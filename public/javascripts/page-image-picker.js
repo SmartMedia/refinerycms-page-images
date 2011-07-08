@@ -41,9 +41,9 @@ $(document).ready(function(){
 });
 
 reset_functionality = function() {
-  WYMeditor.onload_functions.push(function(){
-    $('.wym_box').css({'width':null});
-  });
+  //WYMeditor.onload_functions.push(function(){
+  //  $('.wym_box').css({'width':null});
+  //});
 
   $("#page_images").sortable({
     'tolerance': 'pointer'
