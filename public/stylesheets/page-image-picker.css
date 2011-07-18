@@ -56,5 +56,5 @@ a#add_image_link {
   padding-left: 20px;
   display: inline;
   border-bottom: 0px none;
-  background: url('/images/refinery/icons/add.png');
+  background: url('/images/refinery/icons/add.png') no-repeat;
 }
